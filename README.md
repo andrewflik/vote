@@ -3,4 +3,7 @@
 Simple State Management using setState()
 
 
-![ss](https://github.com/andrewflik/vote/blob/master/2.jpg) ![ss2](https://github.com/andrewflik/vote/blob/master/1.jpg)
+<p float="left">
+  <img src="/1.jpg" width="100" />
+  <img src="/2.jpg" width="100" /> 
+</p>
