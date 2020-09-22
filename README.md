@@ -1,6 +1,6 @@
 # Vote 
 
-Simple State Management using setState()
+## Simple State Management using setState()
 
 
 <p float="left">
