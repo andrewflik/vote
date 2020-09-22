@@ -1,6 +1,6 @@
-# vote
+# Vote 
 
-A new Flutter project.
+Simple State Management using setState()
 
 ## Getting Started
 
